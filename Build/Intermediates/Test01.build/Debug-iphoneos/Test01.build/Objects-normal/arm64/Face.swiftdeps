@@ -1,0 +1,123 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Face"
+provides-nominal:
+- "6Test014FaceC"
+provides-member:
+- ["6Test014FaceC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "BooleanLiteralType"
+- "CGPoint"
+- "CGRect"
+- "Face"
+- "Float"
+- "NSObject"
+depends-member:
+- ["SC7CGPointV", "init"]
+- ["SC6CGRectV", "init"]
+- ["s7CVarArgP", "CGPoint"]
+- ["s7CVarArgP", "CGRect"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", ""]
+- ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- ["s28CustomDebugStringConvertibleP", "CGRect"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "CGPoint"]
+- ["s23CustomStringConvertibleP", "CGRect"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "CGPoint"]
+- ["s9EquatableP", "CGRect"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", ""]
+- ["6Test014FaceC", "Bool"]
+- ["6Test014FaceC", "CGPoint"]
+- ["6Test014FaceC", "CGRect"]
+- ["6Test014FaceC", "Float"]
+- ["6Test014FaceC", "deinit"]
+- ["6Test014FaceC", "faceAngle"]
+- ["6Test014FaceC", "faceRect"]
+- ["6Test014FaceC", "hasSmile"]
+- ["6Test014FaceC", "init"]
+- ["6Test014FaceC", "leftEyeClosed"]
+- ["6Test014FaceC", "leftEyePosition"]
+- ["6Test014FaceC", "leftEyeRect"]
+- ["6Test014FaceC", "mouseRect"]
+- ["6Test014FaceC", "mouthPosition"]
+- ["6Test014FaceC", "rightEyeClosed"]
+- ["6Test014FaceC", "rightEyePosition"]
+- ["6Test014FaceC", "rightEyeRect"]
+- ["s8HashableP", "CGPoint"]
+- ["s8HashableP", "CGRect"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", ""]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "faceAngle"]
+- ["So8NSObjectC", "faceRect"]
+- ["So8NSObjectC", "hasSmile"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "leftEyeClosed"]
+- ["So8NSObjectC", "leftEyePosition"]
+- ["So8NSObjectC", "leftEyeRect"]
+- ["So8NSObjectC", "mouseRect"]
+- ["So8NSObjectC", "mouthPosition"]
+- ["So8NSObjectC", "rightEyeClosed"]
+- ["So8NSObjectC", "rightEyePosition"]
+- ["So8NSObjectC", "rightEyeRect"]
+- ["So8NSObjectC", ""]
+- ["So16NSObjectProtocolP", "CGPoint"]
+- ["So16NSObjectProtocolP", "CGRect"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "SC7CGPointV"
+- "SC6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "6Test014FaceC"
+- "s8HashableP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "f5e86d6cc6460b170888db3be0b156f9"

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "50f5ccf4a36b928ec4f522dd40d8a608"
+build_time: [1521371217, 582431000]
+inputs:
+  "/Users/rgbkids/github/Test01/Test01/Test01/Face.swift": [1521370347, 0]
+  "/Users/rgbkids/github/Test01/Test01/Test01/ViewController.swift": [1521370427, 0]
+  "/Users/rgbkids/github/Test01/Test01/Test01/AppDelegate.swift": [1521354735, 0]
+  "/Users/rgbkids/github/Test01/Test01/Test01/FaceTracker.swift": [1521371210, 0]
